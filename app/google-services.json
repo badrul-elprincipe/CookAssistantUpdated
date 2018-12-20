@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668211917856",
+    "firebase_url": "https://cookassistantupdated-9d053.firebaseio.com",
+    "project_id": "cookassistantupdated-9d053",
+    "storage_bucket": "cookassistantupdated-9d053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668211917856:android:5babc51b7fa5091e",
+        "android_client_info": {
+          "package_name": "com.example.user.cookassistantupdated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668211917856-3i0a9eib7p9fhkjus5v5m2j67koe43cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.cookassistantupdated",
+            "certificate_hash": "97bc7e8d95daa681f7a033d566836f06228df676"
+          }
+        },
+        {
+          "client_id": "668211917856-850t7n4oodvumejfuku8lsftn349iobh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7VA9hpp_A9c_ASPKzCKoRQh6M4qPvVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668211917856-850t7n4oodvumejfuku8lsftn349iobh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
